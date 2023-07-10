@@ -17,5 +17,6 @@
 5) подсчет контрольной суммы для файла или целой папки с файлами
 6) создание архива. На вход подается путь к папке с файлом или файлами
 
+## Установка модуля: pip install file-update-lib
 ## Модуль с описаниями функций:
 * [file_update_lib](https://github.com/GridasovAlex/File_update_lib/tree/main/file_update_lib)
