@@ -1,6 +1,6 @@
-# File_update_practice
-***
-## Выполняю кейс:
+# File update lib
+
+## Кейс:
   **Задача:**
 необходимо разработать библиотеку на языке python для обновления файла.
 
@@ -17,6 +17,6 @@
 5) подсчет контрольной суммы для файла или целой папки с файлами
 6) создание архива. На вход подается путь к папке с файлом или файлами
 
-## Установка модуля: pip install file-update-lib
+## Установка : pip install file-update-lib
 ## Модуль с описаниями функций:
 * [file_update_lib](https://github.com/GridasovAlex/File_update_lib/tree/main/file_update_lib)
